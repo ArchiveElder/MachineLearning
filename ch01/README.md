@@ -3,6 +3,8 @@
 ae 스터디 :fire::fire::fire:
 <br/><br/>
 
+출처 : https://github.com/rickiepark/python-machine-learning-book-3rd-edition 
+<br/><br/>
 ##  1장: 컴퓨터는 데이터에서 배운다
 
 
